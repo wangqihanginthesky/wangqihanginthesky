@@ -29,8 +29,8 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
     - OCR
     - ML Ops
 
-### [![kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/wangqihanginthesky) Data Science competation  
-  kaggle expert
+### Data Science competation  
+   [![kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/wangqihanginthesky) 
 
   ![kaggle](https://user-images.githubusercontent.com/48784591/161185091-396bd11a-cb1e-4498-ab03-9b8d624b56b2.png)
 
