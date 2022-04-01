@@ -1,5 +1,5 @@
-### Hi there 👋 
-### This is Qihang Wang!
+## Hi there 👋 
+## This is Qihang Wang!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wangqihanginthesky)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qihang-wang/)
@@ -7,10 +7,10 @@
 
 Welcome to my Github page! I am Qihang Wang and I am an AI engineer.
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/48784591/161188058-b14bb5e5-75fb-4eab-b846-d4000144c56a.jpeg" width="30%" height="auto" />
+<img  alt="img" src="https://user-images.githubusercontent.com/48784591/161188058-b14bb5e5-75fb-4eab-b846-d4000144c56a.jpeg" height="auto" />
 
 
-#### Education
+### Education
 - 2014~2018 ![TMU](https://user-images.githubusercontent.com/48784591/161189884-bc888a4f-cab1-4e59-aec7-9ee29eb4337b.png)
   - Major: Aerospace engineering
   - Rearch CFD (use C++)
@@ -19,24 +19,20 @@ Welcome to my Github page! I am Qihang Wang and I am an AI engineer.
   - Rearch Micro-Satellite , Machine Learning
   - [Project](https://www.space.t.u-tokyo.ac.jp/equuleus/en/) with JAXA,NASA
 
-#### Work: 
+### Work: 
 - 2020 ~ SoftBank Corp. 
   - AI Engineering Department AI Strategy Office
     - OCR
     - ML Ops
 
-#### Data Science competation <img width="5%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">
-- kaggle expert
-- ![kaggle](https://user-images.githubusercontent.com/48784591/161185091-396bd11a-cb1e-4498-ab03-9b8d624b56b2.png)
+### Data Science competation <img width="5%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">
 
-
-<p>
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&theme=noctis_minimus" />
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus" />
-</p>
-
+  kaggle expert
   
-#### Technology Stack 💻
+  ![kaggle](https://user-images.githubusercontent.com/48784591/161185091-396bd11a-cb1e-4498-ab03-9b8d624b56b2.png)
+
+
+### Technology Stack 💻
 - Frontend
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 
@@ -57,3 +53,7 @@ Welcome to my Github page! I am Qihang Wang and I am an AI engineer.
 - Iot
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+
+### Github
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&theme=noctis_minimus" />
+<img  src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus" />
