@@ -7,19 +7,21 @@
 
 Welcome to my Github page! I am Qihang Wang and I am an AI engineer.
 
-<img align="right" alt="img" src="https://user-images.githubusercontent.com/48784591/161184177-44726785-2624-4d42-a396-437175e87028.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/48784591/161188058-b14bb5e5-75fb-4eab-b846-d4000144c56a.jpeg" width="30%" height="auto" />
 
 #### Things I am currently working on: 
-- ML template
+- OCR
+- ML Ops
 
 #### Data Science competation <img width="5%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg">
+- kaggle expert
 - ![kaggle](https://user-images.githubusercontent.com/48784591/161185091-396bd11a-cb1e-4498-ab03-9b8d624b56b2.png)
 
 
-
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus" />
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&theme=noctis_minimus" />
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&theme=noctis_minimus" />
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus" />
+</p>
 
   
 #### Technology Stack 💻
@@ -33,20 +35,13 @@ Welcome to my Github page! I am Qihang Wang and I am an AI engineer.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
-
 ##### Cloud & DevOps 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
-
-##### Deep Learning
+##### AI
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-
-##### Machine Learning
 
 ##### Iot
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-
-##### Code Management
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
