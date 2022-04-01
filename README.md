@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qihang-wang/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wangqihanginthesky@gmail.com)
 
-Welcome to my Github page! I am Qihang Wang and I am an AI engineer.
+Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
 <img  alt="img" src="https://user-images.githubusercontent.com/48784591/161188058-b14bb5e5-75fb-4eab-b846-d4000144c56a.jpeg" height="auto" />
 
