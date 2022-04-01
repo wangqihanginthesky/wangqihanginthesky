@@ -52,7 +52,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
 - AI
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 - Iot
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
