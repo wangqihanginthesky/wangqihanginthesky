@@ -60,4 +60,4 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
 ### Github
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&count_private=true&theme=noctis_minimus&include_all_commits=true" />
-<img  src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus&count_private=true" />
+<img  src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus&count_private=true&include_all_commits=true" />
