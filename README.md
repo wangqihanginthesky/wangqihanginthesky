@@ -59,5 +59,5 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 
 ### Github
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&theme=noctis_minimus" />
-<img  src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&theme=noctis_minimus?count_private=true" />
+<img  src="https://github-readme-stats.vercel.app/api?username=wangqihanginthesky&show_icons=true&theme=noctis_minimus?count_private=true" />
