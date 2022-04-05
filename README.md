@@ -27,7 +27,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 - 2020 ~ SoftBank Corp. 
   - AI Engineering Department AI Strategy Office
     - OCR
-    - ML Ops
+    - MLOps
 
 ### Data Science competation  
    [![kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/wangqihanginthesky) 
@@ -54,7 +54,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 - AI
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-- Iot
+- IoT
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 
