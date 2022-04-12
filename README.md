@@ -15,11 +15,13 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
     ![TMU](https://user-images.githubusercontent.com/48784591/161189884-bc888a4f-cab1-4e59-aec7-9ee29eb4337b.png)
   - Major: Aerospace Engineering
+  - GPA: 3.83
   - Rearch: CFD (use C++)
 - 2018~2020 The University of Tokyo
 
     ![U.T](https://user-images.githubusercontent.com/48784591/161189893-c392925d-4754-4145-bc25-bb073318c957.png)
   - Major: Advanced Engery
+  - GPA: 3.87
   - Rearch: Micro-Satellite , Machine Learning
   - [Project](https://www.space.t.u-tokyo.ac.jp/equuleus/en/) with JAXA,NASA
 
