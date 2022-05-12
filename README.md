@@ -34,8 +34,8 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 ### Data Science competation  
    [![kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/wangqihanginthesky) 
 
-  ![kaggle](https://user-images.githubusercontent.com/48784591/161185091-396bd11a-cb1e-4498-ab03-9b8d624b56b2.png)
 
+  ![kaggle](https://user-images.githubusercontent.com/48784591/167975565-bbd160f7-7843-4a26-9ebb-9fff04d9a17a.png)
 
 ### Technology Stack 💻
 - Frontend
