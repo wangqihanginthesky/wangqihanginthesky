@@ -33,9 +33,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
 ### Data Science competation  
    [![kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/wangqihanginthesky) 
-
-<img width="984" alt="截屏2022-05-15 10 57 21" src="https://user-images.githubusercontent.com/48784591/168453965-72de010e-2d93-421f-98a5-503919de5b61.png">
-
+<img width="1171" alt="image" src="https://user-images.githubusercontent.com/48784591/192076688-8a0c33b0-46eb-4a18-851d-c90a704c02cc.png">
 
 
 ### Technology Stack 💻
@@ -60,6 +58,8 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 - IoT
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+- Design
+<code><img width="10%" src="https://user-images.githubusercontent.com/48784591/192076657-fc9cb51b-ab64-4033-9c41-0ecc3fd44c23.png"></code>
 
 ### Github
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangqihanginthesky&count_private=true&theme=noctis_minimus&include_all_commits=true" />
