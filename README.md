@@ -15,7 +15,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
     ![TMU](https://user-images.githubusercontent.com/48784591/161189884-bc888a4f-cab1-4e59-aec7-9ee29eb4337b.png)
   - Major: Aerospace Engineering
-  - GPA: 3.12
+  - GPA: 3.82
   - Rearch: CFD (use C++)
 - 2018~2020 The University of Tokyo
 
