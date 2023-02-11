@@ -26,11 +26,12 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
   - [Project](https://www.space.t.u-tokyo.ac.jp/equuleus/en/) with JAXA,NASA
 
 ### Work: 
-- 2020 ~ SoftBank Corp. 
+- 2020.4 ~ 2023.3 SoftBank Corp. 
   - AI Engineering Department AI Strategy Office
     - OCR
     - MLOps
-
+- 2023.3 ~  Recruit Holdings Co.,Ltd.
+  -  Human resources area Recommendation system
 ### Data Science competation  
    [![kaggle](https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg)](https://www.kaggle.com/wangqihanginthesky) 
 <img width="1171" alt="image" src="https://user-images.githubusercontent.com/48784591/192076688-8a0c33b0-46eb-4a18-851d-c90a704c02cc.png">
