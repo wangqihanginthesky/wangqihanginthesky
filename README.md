@@ -19,7 +19,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
   - Rearch: CFD (use C++)
 - 2018~2020 The University of Tokyo
 
-    ![U.T](https://user-images.githubusercontent.com/48784591/161189893-c392925d-4754-4145-bc25-bb073318c957.png)
+    ![U.T](https://user-images.githubusercontent.com/48784591/218250531-bc764c24-ea00-4a83-a9f7-b4d84e192185.png)
   - Major: Advanced Engery
   - GPA: 3.87
   - Rearch: Micro-Satellite , Machine Learning
