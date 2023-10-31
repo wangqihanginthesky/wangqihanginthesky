@@ -35,7 +35,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 ### Data Science competation  
 ![kaggle](https://github.com/wangqihanginthesky/wangqihanginthesky/assets/48784591/a71e8a0f-a1d6-450a-926a-8c1b3325c800)
 
-<img width="1171" alt="image" src="https://user-images.githubusercontent.com/48784591/192076688-8a0c33b0-46eb-4a18-851d-c90a704c02cc.png">
+
 
 
 ### Technology Stack 💻
