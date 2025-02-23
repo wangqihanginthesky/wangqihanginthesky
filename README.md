@@ -11,16 +11,15 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
 
 ### Education
+- Major: Aerospace Engineering
 - 2014~2018 Tokyo Metropolitan University
 
     ![TMU](https://user-images.githubusercontent.com/48784591/161189884-bc888a4f-cab1-4e59-aec7-9ee29eb4337b.png)
-  - Major: Aerospace Engineering
   - GPA: 3.82
   - Rearch: CFD (use C++)
 - 2018~2020 The University of Tokyo
 
     ![U.T](https://user-images.githubusercontent.com/48784591/218250531-bc764c24-ea00-4a83-a9f7-b4d84e192185.png)
-  - Major: Advanced Engery
   - GPA: 3.87
   - Rearch: Micro-Satellite , Machine Learning
   - [Project](https://www.space.t.u-tokyo.ac.jp/equuleus/en/) with JAXA,NASA
@@ -33,7 +32,7 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 - 2023.3 ~  Recruit Co.,Ltd.
   -  Human resources area Recommendation system
 ### Data Science competation  
-![kaggle](https://github.com/wangqihanginthesky/wangqihanginthesky/assets/48784591/a71e8a0f-a1d6-450a-926a-8c1b3325c800)
+![image](https://github.com/user-attachments/assets/a5dffc7a-eafe-4ef8-9601-b2c06a7ef01f)
 
 
 
@@ -58,6 +57,8 @@ Welcome to my Github page! I am Qihang Wang and I am a Data Scientist.
 
 - AI
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 - IoT
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
